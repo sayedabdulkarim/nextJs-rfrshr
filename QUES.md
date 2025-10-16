@@ -1,0 +1,3 @@
+- notFound page -
+- slugs
+- how to get param in server / client component /next_refresher/my-app/src/app/products/[productId]/reviews/[reviewId]/page.tsx
