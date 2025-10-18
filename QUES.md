@@ -5,7 +5,7 @@
 - dynmaic metaData - /Users/saykarim/Desktop/next_refresher/my-app/src/app/products/[productId]/page.tsx
 - Error Boundary
 - Parallel routes
--
+- React Server components
 
 TODO:
 
